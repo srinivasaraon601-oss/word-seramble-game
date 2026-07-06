@@ -1,0 +1,25 @@
+# Drawing Pad Using Python
+
+## Description
+A simple drawing application built with Python and Tkinter. Users can draw freely using the mouse and clear the canvas with one click.
+
+## Features
+- Freehand drawing
+- Clear canvas
+- Simple GUI
+
+## Technologies Used
+- Python
+- Tkinter
+
+## How to Run
+1. Open `main.py` in Thonny.
+2. Click Run.
+3. Draw using the mouse.
+4. Click **Clear** to erase the drawing.
+
+## Future Improvements
+- Color selection
+- Brush size
+- Eraser
+- Save drawing
